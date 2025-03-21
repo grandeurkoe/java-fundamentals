@@ -6,6 +6,7 @@ Learn to program in the Java programming language.
 
 ## Built Using
 <p>
+    <img alt="Java" src="https://img.shields.io/badge/-Java-23ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
   <img alt="Eclipse" src="https://img.shields.io/badge/-Eclipse-orange?style=flat-square&logo=eclipse&logoColor=2C2255" />
   <img alt="Obsidian" src="https://img.shields.io/badge/Obsidian-7E1DFB?style=flat-square&logo=obsidian&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-f34f29?style=flat-square&logo=git&logoColor=white" />
